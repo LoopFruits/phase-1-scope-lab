@@ -36,3 +36,5 @@ function overwriteBestCustomer(customer){
 function changeLeastFavoriteCustomer(){
     
 }
+
+changeLeastFavoriteCustomer();
